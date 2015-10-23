@@ -1,0 +1,7 @@
+id: "Gobbet_Spiritualist_4"
+crew_id: "Gobbet"
+name: "Spiritualist"
+icon: "icon_devil_rat_spirit_1"
+short_desc: "Gain Item:\nDevil Rat Spirit Fetish"
+long_desc: "Gobbet now carries a Devil Rat Spirit Fetish in her standard equipment."
+general_tags_to_add: "Gobbet_Spiritualist_4"

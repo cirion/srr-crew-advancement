@@ -1,0 +1,10 @@
+id: "Gobbet_Territoriality_2"
+crew_id: "Gobbet"
+name: "Territoriality"
+icon: "icon_shaman_spell_totemrat_destroy"
+short_desc: "Gain Rat Totem:\nDestroy Spirit"
+long_desc: "Gobbet\'s Rat Totem invocation does 99 DMG to any hostile Spirit. This spell can only be used on Spirits."
+equipment_to_add {
+  prefab_name: "TotemRat (Destroy)"
+}
+general_tags_to_add: "Gobbet_Territoriality_2"

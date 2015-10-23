@@ -1,0 +1,19 @@
+id: "Gobbet_Territoriality_1"
+crew_id: "Gobbet"
+name: "Territoriality"
+icon: "icon_SMG_SandlerTMP_Gobbet"
+short_desc: "Augment Skill:\nRanged Combat"
+long_desc: "Gobbet spends some more time at the firing range, increasing her Ranged Combat skill and and SMG specialization by 1."
+character_mod {
+  stats {
+  }
+  skills {
+    ranged_combat: 1
+  }
+  specializations {
+    smg: 1
+  }
+  vulnerabilities {
+  }
+}
+general_tags_to_add: "Gobbet_Territoriality_1"

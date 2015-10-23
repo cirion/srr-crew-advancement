@@ -1,0 +1,21 @@
+project_id: "56293f6e643431d5f0b39dd7"
+project_name: "TestAdvanceSave"
+project_version: "3"
+author_name: "Cirion"
+synopsis: "Stand-alone pack to track down a bug with saving"
+has_story: true
+read_only: false
+preview_image: "preview"
+game_version_required: 3
+content_pack_dependencies {
+  package_id: "518d7671643431b03f0041a8"
+  package_version: "1"
+  package_name: "ShadowrunCore"
+  package_description: "Core Shadowrun Returns functionality"
+}
+content_pack_dependencies {
+  package_id: "54469bed32343784240005f9"
+  package_version: "1"
+  package_name: "HongKong"
+  package_description: "Shadowrun: Hong Kong"
+}

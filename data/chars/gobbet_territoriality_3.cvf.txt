@@ -1,0 +1,13 @@
+id: "Gobbet_Territoriality_3"
+crew_id: "Gobbet"
+name: "Territoriality"
+icon: "icon_shaman_spell_toxicFog"
+short_desc: "Augment Spell:\nPoison Fog"
+long_desc: "Gobbet\'s Poison Fog is upgraded to Acidic Fog, doing AP DMG to those affected as well as HP DMG."
+equipment_to_add {
+  prefab_name: "Spell Acidic Fog"
+}
+equipment_to_remove {
+  prefab_name: "Spell Poison Fog"
+}
+general_tags_to_add: "Gobbet_Territoriality_3"

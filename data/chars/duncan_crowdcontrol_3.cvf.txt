@@ -1,0 +1,10 @@
+id: "Duncan_CrowdControl_3"
+crew_id: "Duncan"
+name: "Crowd Control"
+icon: "icon_item_modded_flashbang"
+short_desc: "Gain Item:\nModded Flashbang"
+long_desc: "Duncan standard equipment now includes a new flashbang that has a larger AOE, increased by 1 tile in all directions."
+equipment_to_add {
+  prefab_name: "Modded Flashbang (Duncan)"
+}
+general_tags_to_add: "Duncan_CrowdControl_3"

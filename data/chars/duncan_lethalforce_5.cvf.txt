@@ -1,0 +1,8 @@
+id: "Duncan_LethalForce_5"
+crew_id: "Duncan"
+name: "Lethal Force"
+icon: "icon_cyberware_magnetarm"
+short_desc: "Gain Cyberware: Shiawase Magnet Arm"
+long_desc: "Duncan has a magnetic cyber arm installed, allowing him to throw back incoming grenades."
+cyberware_left_arm: "(Arm) Shiawase Magnet Arm"
+general_tags_to_add: "Duncan_LethalForce_5"

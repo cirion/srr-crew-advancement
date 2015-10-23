@@ -1,0 +1,7 @@
+id: "Duncan_LethalForce_4"
+crew_id: "Duncan"
+name: "Lethal Force"
+icon: "icon_ability_duncan_rifle_full_auto"
+short_desc: "Recoil Compensation"
+long_desc: "Full auto fire no longer has a -10% penalty to accuracy when used."
+general_tags_to_add: "Duncan_LethalForce_4"

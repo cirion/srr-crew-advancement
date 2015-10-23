@@ -1,0 +1,7 @@
+id: "Gobbet_Spiritualist_3"
+crew_id: "Gobbet"
+name: "Spiritualist"
+icon: "icon_shrine_spirit_boost"
+short_desc: "Augment Summon: Shrine Spirits"
+long_desc: "Shrine Spirits summoned by Gobbet are now present for an additional turn before dispelling themselves, for a total of 3 RNDs."
+general_tags_to_add: "Gobbet_Spiritualist_3"

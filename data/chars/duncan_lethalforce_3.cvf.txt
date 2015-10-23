@@ -1,0 +1,10 @@
+id: "Duncan_LethalForce_3"
+crew_id: "Duncan"
+name: "Lethal Force"
+icon: "icon_nailgrenade"
+short_desc: "Gain Item:\nNail Grenade"
+long_desc: "Duncan\'s standard equipment now includes a lethal, shrapnel filled grenade. Base DMG: 12, ongoing 4 DMG for 2 RNDs. Strips 1 Armor from affected targets."
+equipment_to_add {
+  prefab_name: "Nail Grenade (Duncan)"
+}
+general_tags_to_add: "Duncan_LethalForce_3"

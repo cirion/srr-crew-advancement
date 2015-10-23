@@ -1,0 +1,14 @@
+minX: 1
+minZ: -1
+numX: 3
+numZ: 3
+props {
+  name: "whitebox_indoor_floor"
+  gridPoint {
+    x: 1
+    y: 0
+    z: -1
+  }
+  orientation: ORIENTATION_S
+  lod: 0
+}

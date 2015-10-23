@@ -1,0 +1,28 @@
+unique_id: "Crew_Gobbet_Lv1_Gear"
+equipment {
+  prefab_name: "SMG 1 SandlerTMP (Gobbet)"
+}
+equipment {
+  prefab_name: "Spell Poison Fog"
+}
+equipment {
+  prefab_name: "Spell Haste 1"
+}
+equipment {
+  prefab_name: "Spell Aim 1"
+}
+equipment {
+  prefab_name: "Spell Heal Wound"
+}
+equipment {
+  prefab_name: "Bound Air Spirit 2"
+}
+equipment {
+  prefab_name: "Bound Nature Spirit 2"
+}
+equipment {
+  prefab_name: "DocWagonBasic"
+}
+equipment {
+  prefab_name: "Gobbet_Clothes Lv1"
+}

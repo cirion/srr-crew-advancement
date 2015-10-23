@@ -1,0 +1,7 @@
+id: "Duncan_CrowdControl_2"
+crew_id: "Duncan"
+name: "Crowd Control"
+icon: "icon_ability_duncan_subdue"
+short_desc: "Augment Ability: Subdue"
+long_desc: "Duncan\'s Subdue ability has its cooldown reduced from 3 RNDs to 2 RNDs."
+general_tags_to_add: "Duncan_CrowdControl_2"

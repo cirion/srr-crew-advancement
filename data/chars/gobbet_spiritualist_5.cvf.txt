@@ -1,0 +1,10 @@
+id: "Gobbet_Spiritualist_5"
+crew_id: "Gobbet"
+name: "Spiritualist"
+icon: "icon_shaman_spell_totemrat_consume"
+short_desc: "Gain Ability:\nConsume Spirit"
+long_desc: "Gobbet can now consume spirits and imbue herself with their power. Consuming a spirit heals Gobbet for 20 HP total over 2 RNDs, and her AP is increased by 1 during that time."
+equipment_to_add {
+  prefab_name: "Spell Consume Spirit"
+}
+general_tags_to_add: "Gobbet_Spiritualist_5"

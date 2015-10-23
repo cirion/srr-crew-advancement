@@ -1,0 +1,13 @@
+id: "Gobbet_Territoriality_5"
+crew_id: "Gobbet"
+name: "Territoriality"
+icon: "icon_shaman_spell_haste3"
+short_desc: "Augment Spell: Haste"
+long_desc: "Gobbet formulates a new version of the Haste spell that harnesses the latent wild magic of Hong Kong. Channeled Haste increases a friendly target\'s AP by 1 for 4 RNDS. When cast, Gobbet\'s accuracy is increased by 15% for 4 RNDs. Shares a cooldown with other Haste spells."
+equipment_to_add {
+  prefab_name: "Spell Haste 3 (Gobbet)"
+}
+equipment_to_remove {
+  prefab_name: "Spell Haste 2"
+}
+general_tags_to_add: "Gobbet_Territoriality_5"

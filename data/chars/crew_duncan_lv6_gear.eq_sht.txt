@@ -1,0 +1,16 @@
+unique_id: "Crew_Duncan_Lv6_Gear"
+equipment {
+  prefab_name: "AR 3 Colt M23"
+}
+equipment {
+  prefab_name: "Grenade 3 (Frag)"
+}
+equipment {
+  prefab_name: "HealthPack_med"
+}
+equipment {
+  prefab_name: "HealthPack_med"
+}
+equipment {
+  prefab_name: "Duncan_Vest Lv3"
+}

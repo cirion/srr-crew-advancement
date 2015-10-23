@@ -1,0 +1,10 @@
+id: "Gobbet_Spiritualist_2"
+crew_id: "Gobbet"
+name: "Spiritualist"
+icon: "icon_shaman_spell_totemrat_steal"
+short_desc: "Gain Rat Totem:\nSteal Spirit"
+long_desc: "Gobbet\'s Rat Totem invocation can steal control of spirits that have been summoned by enemy shamans. Note that only one spirit can be under control until Rank 5 spirit control, where it increases to 2."
+equipment_to_add {
+  prefab_name: "TotemRat (Steal)"
+}
+general_tags_to_add: "Gobbet_Spiritualist_2"

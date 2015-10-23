@@ -1,0 +1,7 @@
+id: "Duncan_CrowdControl_1"
+crew_id: "Duncan"
+name: "Crowd Control"
+icon: "icon_ability_duncan_underslungbeanbag"
+short_desc: "Gain Ability: Underslung Bean Bag"
+long_desc: "Duncan gains a rifle ability that does 2 AP damage and imbalances targets, making them easier to hit on subsequent attacks. This ability cannot do critical DMG. Cost: 1 AP. Cooldown: 2."
+general_tags_to_add: "Duncan_CrowdControl_1"

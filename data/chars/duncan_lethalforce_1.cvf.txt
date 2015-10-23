@@ -1,0 +1,7 @@
+id: "Duncan_LethalForce_1"
+crew_id: "Duncan"
+name: "Lethal Force"
+icon: "icon_fireround"
+short_desc: "Gain Ability: Firepower Round"
+long_desc: "Duncan gains an assault rifle ability that fires a single shot of incendiary ammo. Does an additional 2 DMG and pierces up to 2 Armor. Cost: 1 AP. Cooldown: 2."
+general_tags_to_add: "Duncan_LethalForce_1"

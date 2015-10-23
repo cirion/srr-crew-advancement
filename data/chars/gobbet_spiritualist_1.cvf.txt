@@ -1,0 +1,7 @@
+id: "Gobbet_Spiritualist_1"
+crew_id: "Gobbet"
+name: "Spiritualist"
+icon: "icon_gobbet_augment_spirit_control"
+short_desc: "Augment Ability: Spirit Control"
+long_desc: "Spirits will never break away in the first two rounds after summoning them."
+general_tags_to_add: "Gobbet_Spiritualist_1"

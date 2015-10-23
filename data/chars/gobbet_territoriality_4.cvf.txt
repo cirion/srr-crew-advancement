@@ -1,0 +1,10 @@
+id: "Gobbet_Territoriality_4"
+crew_id: "Gobbet"
+name: "Territoriality"
+icon: "icon_gobbet_ability_plague_barrier"
+short_desc: "Gain Spell:\nPlague Barrier"
+long_desc: "Gobbet gains a conjuring spell which sets 4 Heavy Cover barriers that last 3 RNDS. Anyone that enters takes -14 HP and -1 AP DMG."
+equipment_to_add {
+  prefab_name: "Plague Barrier"
+}
+general_tags_to_add: "Gobbet_Territoriality_4"

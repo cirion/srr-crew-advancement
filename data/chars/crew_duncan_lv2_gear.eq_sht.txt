@@ -1,0 +1,16 @@
+unique_id: "Crew_Duncan_Lv2_Gear"
+equipment {
+  prefab_name: "AR 1 Semopal vz88v"
+}
+equipment {
+  prefab_name: "Grenade 1 (Frag)"
+}
+equipment {
+  prefab_name: "HealthPack"
+}
+equipment {
+  prefab_name: "HealthPack_med"
+}
+equipment {
+  prefab_name: "Duncan_Vest Lv1"
+}
